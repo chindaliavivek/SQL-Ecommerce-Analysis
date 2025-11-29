@@ -1,0 +1,31 @@
+Sales & Customer Insights – SQL E-commerce Analysis
+
+1. Overall Revenue
+-The business generated strong total revenue from a diverse set of products.
+-Electronics contributed the highest revenue.
+
+2. Category Performance
+-Electronics is the top-performing category with high-ticket items like laptops, smartphones, and monitors.
+-Furniture shows moderate but stable revenue.
+-Stationery generates lower revenue but high unit sales.
+
+3. Top Customers
+-A few customers contribute a disproportionately high amount to total revenue.
+-This suggests opportunities for loyalty programs or personalized offers.
+
+4. Regional Performance
+-West region places the highest number of orders.
+-East and North show lower engagement but growth potential.
+
+5. Best-Selling Product
+-Laptop and Monitor generate the highest revenue.
+-Pens and notebooks sell in high quantities but low value.
+
+6. Repeat Customers
+-Multiple customers place repeat orders, showing trust and brand loyalty.
+
+Business Recommendations:
+-Invest more into Electronics category marketing.
+-Improve Furniture margins by controlling discounts.
+-Expand marketing in East and North regions.
+-Reward high-value customers to increase repeat purchases.
