@@ -1,0 +1,12 @@
+item_id,order_id,product,category,quantity,price
+I001,O1001,Laptop,Electronics,1,50000
+I002,O1001,Mouse,Electronics,2,800
+I003,O1002,Office Chair,Furniture,1,7000
+I004,O1003,Notebook,Stationery,5,50
+I005,O1004,Smartphone,Electronics,1,30000
+I006,O1005,Table,Furniture,1,9000
+I007,O1006,Pens,Stationery,10,20
+I008,O1007,Headphones,Electronics,1,2500
+I009,O1008,Monitor,Electronics,1,12000
+I010,O1009,Desk,Furniture,1,11000
+I011,O1010,Printer,Electronics,1,15000
